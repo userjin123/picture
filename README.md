@@ -1,2 +1,2 @@
 # picture
-typora 图片上传文职
+typora 图片上传位置
